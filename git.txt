@@ -1,9 +1,9 @@
-R
- A
-  M
-   G
-    A
-     N
-      E
-       S
-        H
+R                 R
+ A               A
+  M             M
+   G           G
+    A         A
+     N       N
+      E     E
+       S   S
+        H H
